@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/yulduzetta/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "@hyiromori/markdown-preview": "^0.3.7",
+    "@octokit/rest": "^18.1.0",
+    "inquirer": "^7.3.3",
+    "shelljs": "^0.8.4"
   }
 }

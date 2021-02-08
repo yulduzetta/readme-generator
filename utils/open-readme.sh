@@ -1,0 +1,1 @@
+npx @hyiromori/markdown-preview --port 34567 --file ./dist/README.md
