@@ -33,6 +33,7 @@ $ node index.js
 [Demo video](https://www.youtube.com/watch?v=_magC9Du34A&feature=youtu.be) will walk you through the application and its usage
  
 **Click on the giphy to watch full demo**
+
 [![Click on the giphy to watch full demo](https://user-images.githubusercontent.com/13324397/107225386-57b3f600-69de-11eb-87ec-953b93d084b6.gif)](https://youtu.be/_magC9Du34A)
 
 
