@@ -17,7 +17,7 @@ Super awesome application which dynamically generates and opens a `README.md` fi
 ```typescript
 $ git clone git@github.com:yulduzetta/readme-generator.git
 $ cd readme-generator.git
-$ pm install --save-dev
+$ npm install --save-dev
 ```
   
 ## Usage 
@@ -30,7 +30,8 @@ $ node index.js
  <a href="http://choosealicense.com/licenses/mit/" target="_blank">MIT License</a> ![MIT License](https://img.shields.io/badge/mit-brightgreen) 
 
 ## Demo
-[Demo video](https://www.youtube.com/watch?v=_magC9Du34A&feature=youtu.be) will walk you through the application and its usage
+1. [Demo video](https://www.youtube.com/watch?v=_magC9Du34A&feature=youtu.be) will walk you through the application and its usage
+2. Sample `README.md` can be found [here](https://github.com/yulduzetta/readme-generator/blob/develop/dist/README.md)
  
 **Click on the giphy to watch full demo**
 
